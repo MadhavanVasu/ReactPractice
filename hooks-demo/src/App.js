@@ -20,11 +20,11 @@ function App() {
           {/* <UseEffect /> */}
           {/* <UseRef /> */}
           {/* <UseEffectDemo2 /> */}
-          <UseMemo />
+          {/* <UseMemo /> */}
           {/* <UseContext /> */}
           {/* <UseReducer /> */}
-          {/* <FirstComponent />
-          <SecondComponent /> */}
+          <FirstComponent />
+          <SecondComponent />
         </div>
       </CountContextProvider>
     </ThemeContextProvider>
